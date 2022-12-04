@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.github.tonbei.papershelledpluginmaventemplate.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.8",
+  "mixins": [
+    "TestMixin"
+  ]
+}

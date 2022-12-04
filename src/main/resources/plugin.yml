@@ -1,0 +1,6 @@
+name: PaperShelledPluginMavenTemplate
+version: '${project.version}'
+main: com.github.tonbei.papershelledpluginmaventemplate.PaperShelledPluginMavenTemplate
+api-version: 1.18
+#depend:
+#  - ProtocolLib
